@@ -1,2 +1,3 @@
 Oleg Levitskiy
+finish task_1
 start task_2
